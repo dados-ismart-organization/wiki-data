@@ -10,8 +10,8 @@ Esse github tem como objetivo agrupar análises, dashboards e facilitar a integr
 -
  
 ## Automações
-> Abaixo esta a lista dos repositórios utilizados para o armazenamento de automações.
-- Automacoes-EB
+> Lista dos repositórios utilizados para o armazenamento de automações. Formato: "automacoes-projeto"
+- automacoes-iol 
 -
 -
 -
