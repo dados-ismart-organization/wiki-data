@@ -7,7 +7,7 @@ Esse github tem como objetivo agrupar análises, dashboards e facilitar a integr
 - selecao
 - painel-indicadores
 - estudar-fora
--
+- [Alumini](https://github.com/data-team-ismart/dash_alumni)
  
 ## Automações
 > Lista dos repositórios utilizados para o armazenamento de automações. Formato: "automacoes-projeto"
