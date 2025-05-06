@@ -9,13 +9,13 @@ Esse github tem como objetivo agrupar análises, dashboards e facilitar a integr
 - estudar-fora
 - [Alumini](https://github.com/data-team-ismart/dash_alumni)
  
-## Automações
-> Lista dos repositórios utilizados para o armazenamento de automações. Formato: "automacoes-projeto"
-- automacoes-iol 
--
--
--
--
+## Automatizações - IOL
+> Lista dos repositórios utilizados para o armazenamento de automações. Formato: "automatizacao-iol-nome_da_automatizacao" + link para o repositório
+- automatizacao-iol-atualizacao_cadastral
+- automatizacao-iol-khan_academy
+- automatizacao-iol-letrus
+- automatizacao-iol-evolucional
+- automatizacao-iol-missoes
  
 ## Análises AD-HOC
 > Abaixo esta a lista dos repositórios utilizados para o armazenamento de análises AD-HOC
