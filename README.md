@@ -11,10 +11,10 @@ Esse github tem como objetivo agrupar análises, dashboards e facilitar a integr
  
 ## Automatizações - IOL
 > Lista dos repositórios utilizados para o armazenamento de automações. Formato: "automatizacao-iol-nome_da_automatizacao" + link para o repositório
-- [automatizacao-iol-atualizacao_cadastral] (https://github.com/dados-ismart-organization/automatizacao-iol-atualizacao_cadastral)
-- [automatizacao-iol-khan_academy] (https://github.com/dados-ismart-organization/automatizacao-iol-khan)
-- [automatizacao-iol-letrus] (https://github.com/dados-ismart-organization/automatizacao-iol-letrus)
-- [automatizacao-iol-evolucional] (https://github.com/dados-ismart-organization/automatizacao-iol-evolucional)
+- [automatizacao-iol-atualizacao_cadastral](https://github.com/dados-ismart-organization/automatizacao-iol-atualizacao_cadastral)
+- [automatizacao-iol-khan_academy](https://github.com/dados-ismart-organization/automatizacao-iol-khan)
+- [automatizacao-iol-letrus](https://github.com/dados-ismart-organization/automatizacao-iol-letrus)
+- [automatizacao-iol-evolucional](https://github.com/dados-ismart-organization/automatizacao-iol-evolucional)
 - automatizacao-iol-missoes
  
 ## Análises AD-HOC
